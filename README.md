@@ -15,4 +15,5 @@ Required Libraries:
 # Running
 
 run database.py at least once (run again to reset the db)
+
 run main.py
